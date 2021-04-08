@@ -13,7 +13,7 @@ HOZOG is a new hyperparameter optimization technique  with zeroth-order hyper-gr
 
 Run test_mp.py for a try on data cleaning task.
 
-![alt text](https://github.com/jsgubin/HOZOG/blob/main/HOZO/results/results.png | width=100px)
+![alt text](https://github.com/jsgubin/HOZOG/blob/main/HOZO/results/results.png = 250x)
 
 ### Build a model class in Python
 
