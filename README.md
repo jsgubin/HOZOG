@@ -13,6 +13,8 @@ HOZOG is a new hyperparameter optimization technique  with zeroth-order hyper-gr
 
 Run test_mp.py for a try on data cleaning task.
 
+![Screenshot](/results/results.png)
+
 ### Build a model class in Python
 
 Build a model for task, the model must have two function: *\_\_int\_\_* and *train_valid*. The first parameter of *\_\_int\_\_* must be the hyper-parameters. Other parameters for *\_\_int\_\_* can be a *init_model_dict* defined in main function. *train_valid* must receive data (can be a data_dict defined in main function) and return a validation loss.
