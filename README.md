@@ -2,10 +2,6 @@
 
 HOZOG is a new hyperparameter optimization technique  with zeroth-order hyper-gradients. The experimental results demonstrate the benefits of  HOZOG in terms of simplicity, scalability, flexibility, effectiveness and efficiency compared with the state-of-the-art hyperparameter optimization methods.
 
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](www.github.com)
-
 ## Installation
 
 - Clone the repo: `git clone https://github.com/hozog.git`
