@@ -62,4 +62,6 @@ Code released under the [MIT](https://github.com/) license.
 ## Reference
 Gu, B., Liu, G., Zhang, Y., Geng, X. and Huang, H., 2021. Optimizing Large-Scale Hyperparameters via Automated Learning Algorithm. arXiv preprint arXiv:2102.09026.
 
-If you use our code, please cite our paper. Thanks.
+If you use our code, please cite our paper. Thanks. 
+
+For any questions, please email bin.gu@mbzuai.ac.ae.
